@@ -1,6 +1,6 @@
 # 💫 About Me:
-As a member of Deloitte’s AppSec team, I specialise in cybersecurity projects, particularly in SAST/DAST activities and manual security testing.
-In addition to my cybersecurity expertise, u am proficient I. Front end technologies such as ReactJS and Next, along with various related libraries.
+As a member of Deloitte’s AppSec team, I specialize in cybersecurity projects, particularly in SAST/DAST activities and manual security testing.
+In addition to my cybersecurity expertise, I am proficient in frontend technologies such as ReactJS and Next, along with various related libraries.
 My backend skills include working with NodeJS and database like Postgres and MongoDB. I am also adept at working with APIs and leveraging AI to enhance my productivity.
 I am dedicated to continuous growth and excellence in both cybersecurity and web development domains.
 
