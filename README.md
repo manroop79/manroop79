@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Manroop</h1>
 <p>Frontend Developer | Building Intelligent Interfaces with AI</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<h3>As a member of Deloitte’s AppSec team, I specialize in cybersecurity projects, particularly in SAST/DAST activities and manual security testing.
+<p>As a member of Deloitte’s AppSec team, I specialize in cybersecurity projects, particularly in SAST/DAST activities and manual security testing.
+<h2>🚀 Languages and Tools I Use</p>
 In addition to my cybersecurity expertise, I am proficient in frontend technologies such as ReactJS and Next, along with various related libraries.
 My backend skills include working with NodeJS and database like Postgres and MongoDB. I am also adept at working with APIs and leveraging AI to enhance my productivity.
 I am dedicated to continuous growth and excellence in both cybersecurity and web development domains.</h3>
