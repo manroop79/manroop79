@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Manroop</h1>
 <p>Frontend Developer | Building Intelligent Interfaces with AI</p>
-<p>As a member of Deloitte’s AppSec team, I specialize in cybersecurity projects, particularly in SAST/DAST activities and manual security testing.
-<h2>🚀 Languages and Tools I Use</p>
-In addition to my cybersecurity expertise, I am proficient in frontend technologies such as ReactJS and Next, along with various related libraries.
+<h2>Description</h2>
+<p></p>In addition to my cybersecurity expertise, I am proficient in frontend technologies such as ReactJS and Next, along with various related libraries.
 My backend skills include working with NodeJS and database like Postgres and MongoDB. I am also adept at working with APIs and leveraging AI to enhance my productivity.
-I am dedicated to continuous growth and excellence in both cybersecurity and web development domains.</h3>
+I am dedicated to continuous growth and excellence in both cybersecurity and web development domains.</p>
+<h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
